@@ -29,11 +29,19 @@ Total time: 0.253 seconds
 Result: 4999999950000000
 Total time: 0.000087 seconds
 
-# python script - sum of 100 million numbers
+# python 3.12 script - sum of 100 million numbers
 Result: 4999999950000000
 Total time: 6.320 seconds
 
-# python script optimized with mathematical formula - sum of 100 million numbers
+# python 3.14 script - sum of 100 million numbers
+Result: 4999999950000000
+Total time: 7.689 seconds
+
+# python 3.12 script optimized with mathematical formula - sum of 100 million numbers
+Result: 4999999950000000
+Total time: 0.000004 seconds
+
+# python 3.14 script optimized with mathematical formula - sum of 100 million numbers
 Result: 4999999950000000
 Total time: 0.000004 seconds
 
@@ -47,11 +55,19 @@ Total time: 2.524 seconds
 Result: 499999999500000000
 Total time: 0.000100 seconds
 
-# python script - sum of 1 billion numbers
+# python 3.12 script - sum of 1 billion numbers
 Result: 499999999500000000
 Total time: 63.935 seconds
 
-# python script optimized with mathematical formula - sum of 1 billion numbers
+# python 3.14 script - sum of 1 billion numbers
+Result: 499999999500000000
+Total time: 68.748 seconds
+
+# python 3.12 script optimized with mathematical formula - sum of 1 billion numbers
+Result: 499999999500000000
+Total time: 0.000004 seconds
+
+# python 3.14 script optimized with mathematical formula - sum of 1 billion numbers
 Result: 499999999500000000
 Total time: 0.000004 seconds
 ```
