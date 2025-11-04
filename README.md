@@ -10,3 +10,8 @@ Note: PowerShell scripts can run on Windows and Linux machines with the appropri
 Windows 10 and 11 also work with PowerShell + C#, but only if the script is compatible with PowerShell 5.1.
 
 It is also possible to run PowerShell + C# with a Dockerfile as long as you use the image: FROM mcr.microsoft.com/dotnet/sdk:8.0
+
+# check performance
+<a target="_blank" href="https://colab.research.google.com/github/zoreu/powershell_vs_python/blob/main/powershellvspython.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
