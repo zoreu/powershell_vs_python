@@ -25,18 +25,35 @@ It is also possible to run PowerShell + C# with a Dockerfile as long as you use 
 Result: 4999999950000000
 Total time: 0.253 seconds
 
+# powershell +C# script optimized with mathematical formula - sum of 100 million numbers
+Result: 4999999950000000
+Total time: 0.000087 seconds
+
 # python script - sum of 100 million numbers
 Result: 4999999950000000
 Total time: 6.320 seconds
+
+# python script optimized with mathematical formula - sum of 100 million numbers
+Result: 4999999950000000
+Total time: 0.000004 seconds
+
 
 # ----- sum of 1 billion numbers ---
 # powershell +C# script - sum of 1 billion numbers
 Result: 499999999500000000
 Total time: 2.524 seconds
 
+# powershell +C# script optimized with mathematical formula - sum of 1 billion numbers
+Result: 4.999999995E+17
+Total time: 0.000089 seconds
+
 # python script - sum of 1 billion numbers
 Result: 499999999500000000
 Total time: 63.935 seconds
+
+# python script optimized with mathematical formula - sum of 1 billion numbers
+Result: 499999999500000000
+Total time: 0.000004 seconds
 ```
 
 
