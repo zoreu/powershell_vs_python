@@ -44,8 +44,8 @@ Result: 499999999500000000
 Total time: 2.524 seconds
 
 # powershell +C# script optimized with mathematical formula - sum of 1 billion numbers
-Result: 4.999999995E+17
-Total time: 0.000089 seconds
+Result: 499999999500000000
+Total time: 0.000100 seconds
 
 # python script - sum of 1 billion numbers
 Result: 499999999500000000
